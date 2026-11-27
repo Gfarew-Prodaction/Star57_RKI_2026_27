@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 159ab8eb2c73149a9a92799eea1c6c87, type: 3}
+  m_Name: Shift_0_WithPumpOutage
+  m_EditorClassIdentifier: Assembly-CSharp::Zvezda57.Systems.ShiftDefinition
+  Title: "13 \u043E\u043A\u0442\u044F\u0431\u0440\u044F 1957 \xB7 \u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435"
+  CaseIds:
+  - 0.1
+  Incidents:
+  - Id: 0.A
+    Delay: 3
+  - Incident: {fileID: 11400000, guid: c53f44bf87b942079bda00c39f4a19b7, type: 2}
+    Id:
+    Delay: 5
+  Intro: {fileID: 11400000, guid: ae696dbc08b7741d3825bfd9a2814edf, type: 2}
+  Reward: 0

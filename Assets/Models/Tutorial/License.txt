@@ -1,0 +1,4 @@
+Arrow Basic — Kenney, Factory Kit. CC0-1.0 (public domain).
+Source: https://flockbay.com/assets/arrow-basic/
+Downloaded GLB and converted geometry to OBJ for Unity.
+https://creativecommons.org/publicdomain/zero/1.0/
